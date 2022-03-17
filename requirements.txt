@@ -6,7 +6,6 @@ seaborn
 scikit-learn
 plotly
 squarify
-tkinter
 turtle
 datetime
 pickle
