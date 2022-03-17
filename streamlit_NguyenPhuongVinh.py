@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
-import pandas_profiling as pp
 import seaborn as sns
 import plotly.express as px
 import squarify
